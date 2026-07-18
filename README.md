@@ -1,8 +1,12 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Saad 👨‍💻
 
-I am a Full Stack Software Developer and machine-learning enthusiast. I am passionate about technologies and love to learn new things.
+**Performance & Capacity PM @ Amazon Last Mile** — I turn messy operational problems into
+automation, data pipelines, and AI tooling. Software developer background, product mindset,
+AWS ×3 certified. I like shipping things that remove manual work.
 
-#### 🔭 I’m currently looking for new opportunities.
+- 🌱 Currently building automation & agentic-AI tooling
+- 🧰 Day-to-day: Python · SQL · data pipelines · FastAPI · AWS
+- 📍 Dubai, UAE
 
 ## Projects
 
@@ -57,9 +61,6 @@ Here are a few things I've picked up along my learning journey.
 
  ![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-shamim/)
-
- or give some ♥ on [mail](mailto:saadshamim01@gmail.com).
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadshamim01@gmail.com)
